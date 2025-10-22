@@ -1,0 +1,16 @@
+{
+    "admin": [
+        "crear",
+        "leer",
+        "escribir",
+        "eliminar",
+        "asignar"
+    ],
+    "usuario": [
+        "leer",
+        "escribir"
+    ],
+    "invitado": [
+        "leer"
+    ]
+}

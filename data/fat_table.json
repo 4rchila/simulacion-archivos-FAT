@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "archivo prueba",
+        "ruta_inicial": "data\\bloques\\archivo prueba_bloque0.json",
+        "papelera": false,
+        "tamaño": 58,
+        "fecha_creacion": "2025-10-21 18:58:52",
+        "fecha_modificacion": null,
+        "fecha_eliminacion": null,
+        "owner": "admin",
+        "permisos": {
+            "admin": {},
+            "usuario": [
+                "leer"
+            ]
+        }
+    }
+]
